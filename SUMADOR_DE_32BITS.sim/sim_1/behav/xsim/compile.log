@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_16BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_16BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_1BIT.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_1BIT
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_2BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_2BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_32BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_32BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_4BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_4BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_64BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_64BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_8BITS.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_DE_8BITS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sim_1/new/SUMADOR_TB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SUMADOR_TB
+WARNING: [VRFC 10-8497] literal value 'b11010101010101010101010101010101010101010101010101010101010101001 truncated to fit in 64 bits [E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sim_1/new/SUMADOR_TB.sv:52]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

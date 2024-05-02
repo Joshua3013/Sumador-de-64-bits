@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Prueba exitosa: suma correcta
+$finish called at time : 2 ns : File "E:/PROYECTOS VIVADO/SUMADOR_DE_64BITS/SUMADOR_DE_32BITS.srcs/sim_1/new/SUMADOR_TB.sv" Line 60

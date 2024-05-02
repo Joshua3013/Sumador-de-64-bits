@@ -1,0 +1,7 @@
+Running: xsim.dir/SUMADOR_DE_4BITS_behav/xsimk.exe -simmode gui -wdb SUMADOR_DE_4BITS_behav.wdb -simrunnum 0 -socket 51283
+Design successfully loaded
+Design Loading Memory Usage: 9032 KB (Peak: 9032 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 9552 KB (Peak: 9552 KB)
+Simulation CPU Usage: 156 ms

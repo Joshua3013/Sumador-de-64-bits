@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_16BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_1BIT.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_2BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_32BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_4BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_64BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sources_1/new/SUMADOR_DE_8BITS.sv" \
+"../../../../SUMADOR_DE_32BITS.srcs/sim_1/new/SUMADOR_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
